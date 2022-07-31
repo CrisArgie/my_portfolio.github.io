@@ -1,0 +1,290 @@
+<section class="col-12 p-5" id="about">
+            <div class="row mx-0">
+                <div class="col-lg-12">
+                    <h4 class="px-5">
+                        <span class="blast-a" aria-hidden="true">I</span>
+                        <span class="blast-b" aria-hidden="true">/</span>
+                        <span class="blast-b" aria-hidden="true">M</span>
+                        <span class="blast-b" aria-hidden="true">y</span>
+                        <span class="blast-b" aria-hidden="true">/</span>
+                        <span class="blast-b" aria-hidden="true">M</span>
+                        <span class="blast-b" aria-hidden="true">e</span>
+                        <span class="blast-b" aria-hidden="true">/</span>
+                        <span class="blast-b" aria-hidden="true">M</span>
+                        <span class="blast-b" aria-hidden="true">y</span>
+                        <span class="blast-b" aria-hidden="true">s</span>
+                        <span class="blast-b" aria-hidden="true">e</span>
+                        <span class="blast-b" aria-hidden="true">l</span>
+                        <span class="blast-b" aria-hidden="true">f</span>
+                    </h4>
+                </div>
+                <div class="col-lg-6">
+                    <div class="d-flex flex-column p-5">
+                        <p class="text-white" align="justify">
+                            Hi! I'm Cris Argie Ecleo, a graduate student of MSU-IIT with the degree of Bachelor of
+                            Science in Computer Applications major in Internet of Things (IOT) and also a graduate
+                            of General Academic Strand from Mindanao Institute. I believe my 4 years of knowledge in
+                            college will make me an ideal fit for an IT or Computer related job or innovate devices
+                            to be IOT.
+                        </p>
+                        <p class="text-white" align="justify">
+                            I am Team Player person, introvert person with a observant and deep thinker in problem
+                            solving to detailed manner. A fan in web game development, gamer, and do business in
+                            creating personal peso wifi and peso pc net. I focused on C sketch for Arduino and
+                            Python for Raspberry pi and innovate it to connect the internet and create an app for
+                            Remotely control, monitor, and visualize data from microcontroller or microcomputer.
+                        </p>
+                        <br>
+                        <a href="#contact" class="a-color-1b">
+                            Create a new feature, shall we?
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="d-flex flex-column p-5">
+                        <div class="d-flex">
+                            <div class="text-white font-weight-bold text-monospace">
+                                Experience:&nbsp;
+                            </div>
+                            <div class="text-white">
+                                OJT Trainee at DOST 13 CARAGA
+                            </div>
+                        </div>
+                        <div class="d-flex flex-column">
+                            <div class="text-white font-weight-bold text-monospace">
+                                Skills:
+                            </div>
+                            <ul class="px-2">
+                                <li>
+                                    <span class="text-white">
+                                        Arduino Programming Language
+                                    </span>
+                                    <div class="progress progress-sm mb-1">
+                                        <div class="progress-bar bg-success" role="progressbar" aria-valuenow="35"
+                                            style="width: 85%"></div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span class="text-white">
+                                        HTML, CSS, & PHP
+                                    </span>
+                                    <div class="progress progress-sm mb-1">
+                                        <div class="progress-bar bg-success" role="progressbar" aria-valuenow="35"
+                                            style="width: 55%"></div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span class="text-white">
+                                        Python
+                                    </span>
+                                    <div class="progress progress-sm mb-1">
+                                        <div class="progress-bar bg-success" role="progressbar" aria-valuenow="35"
+                                            style="width: 65%"></div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span class="text-white">
+                                        C++ and C programming
+                                    </span>
+                                    <div class="progress progress-sm mb-1">
+                                        <div class="progress-bar bg-success" role="progressbar" aria-valuenow="35"
+                                            style="width: 75%"></div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span class="text-white">
+                                        Excel, PPT, & Word
+                                    </span>
+                                    <div class="progress progress-sm mb-1">
+                                        <div class="progress-bar bg-success" role="progressbar" aria-valuenow="35"
+                                            style="width: 90%"></div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span class="text-white">
+                                        Machine Learning techniques
+                                    </span>
+                                    <div class="progress progress-sm mb-1">
+                                        <div class="progress-bar bg-success" role="progressbar" aria-valuenow="35"
+                                            style="width: 50%"></div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span class="text-white">
+                                        MARIE or Assembly Language
+                                    </span>
+                                    <div class="progress progress-sm mb-1">
+                                        <div class="progress-bar bg-success" role="progressbar" aria-valuenow="35"
+                                            style="width: 35%"></div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span class="text-white">
+                                        GitHub desktop
+                                    </span>
+                                    <div class="progress progress-sm mb-1">
+                                        <div class="progress-bar bg-success" role="progressbar" aria-valuenow="35"
+                                            style="width: 80%"></div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span class="text-white">
+                                        Laravel PHP web framework
+                                    </span>
+                                    <div class="progress progress-sm mb-1">
+                                        <div class="progress-bar bg-success" role="progressbar" aria-valuenow="35"
+                                            style="width: 45%"></div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span class="text-white">
+                                        Internet of Things
+                                    </span>
+                                    <div class="progress progress-sm mb-1">
+                                        <div class="progress-bar bg-success" role="progressbar" aria-valuenow="35"
+                                            style="width: 90%"></div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span class="text-white">
+                                        Had skills in building Peso Net and Peso WIFI
+                                    </span>
+                                    <div class="progress progress-sm mb-1">
+                                        <div class="progress-bar bg-success" role="progressbar" aria-valuenow="35"
+                                            style="width: 90%"></div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="col-12 p-5" id="contact">
+            <div class="row mx-0">
+                <div class="col-lg-12">
+                    <h4>
+                        <span class="blast-a" aria-hidden="true">C</span>
+                        <span class="blast-b" aria-hidden="true">o</span>
+                        <span class="blast-b" aria-hidden="true">n</span>
+                        <span class="blast-b" aria-hidden="true">t</span>
+                        <span class="blast-b" aria-hidden="true">a</span>
+                        <span class="blast-b" aria-hidden="true">c</span>
+                        <span class="blast-b" aria-hidden="true">t</span>
+
+                        <span class="blast-a" aria-hidden="true">M</span>
+                        <span class="blast-b" aria-hidden="true">e</span>
+                    </h4>
+                </div>
+                <div class="col-lg-6">
+                    <div class="d-flex justify-content-center p-5">
+                        <iframe
+                            src="https://docs.google.com/forms/d/e/1FAIpQLSdxPFX5gGbJT1hWJEnHo2eRF8f64QMcZD3EbHE3z_szf1Hw5A/viewform?embedded=true"
+                            height="390" frameborder="0" marginheight="0" marginwidth="0" style="width: 100%;">Loading…</iframe>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <!-- <canvas id="canvas-2" class="position-absolute"
+                            style="top: 0; left: 0; z-index: -1; transform: translate(11%, -16%); width: 100%; height: 101vh;"></canvas> -->
+                    <div class="d-flex flex-column justify-content-center h-100 p-5">
+                        <div class="my-3">
+                            <div class="text-monospace">
+                                Gmail
+                            </div>
+                            <div class="d-flex flex-column px-3">
+                                <div class="a-color-1b">
+                                    crisrgcleo@gmail.com
+                                </div>
+                            </div>
+                        </div>
+                        <div class="my-3">
+                            <div class="text-monospace">
+                                Linkedin
+                            </div>
+                            <div class="px-3">
+                                <a href="https://linkedin.com/in/cris-argie-ecleo-983866176" target="_blank"
+                                    class="a-color-1b">
+                                    linkedin.com/in/cris-argie-ecleo-983866176
+                                </a>
+                            </div>
+                        </div>
+                        <div class="my-3">
+                            <div class="text-monospace">
+                                Github
+                            </div>
+                            <div class="d-flex flex-column px-3">
+                                <a href="https://github.com/CrisArgie" target="_blank" class="a-color-1b">
+                                    https://github.com/CrisArgie
+                                </a>
+                                <a href="https://github.com/Cris-io" target="_blank" class="a-color-1b">
+                                    https://github.com/Cris-io
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="" id="project">
+            <div class="">
+                <div class="col-lg-6 text-white">
+                    <h4>
+                        <span class="blast-a" aria-hidden="true">P</span>
+                        <span class="blast-b" aria-hidden="true">r</span>
+                        <span class="blast-b" aria-hidden="true">o</span>
+                        <span class="blast-b" aria-hidden="true">j</span>
+                        <span class="blast-b" aria-hidden="true">e</span>
+                        <span class="blast-b" aria-hidden="true">c</span>
+                        <span class="blast-b" aria-hidden="true">t</span>
+                        <span class="blast-b" aria-hidden="true">s</span>
+                    </h4>
+                    <div class="text-white p-5">
+                        Soil Moisture Detection of an indoor plant and MIT app with alert notification for
+                        Monitoring
+                        System
+                        using Thingspeak visualization
+
+                        Website application for Salon booking system
+
+                        IoT-Based Direct Solar Dryer with SMS Notification (IDSD-SMS) for Sardinella Fish
+                    </div>
+                </div>
+                <div class="col-lg-6 text-white">
+                    <h4>
+                        <span class="blast-a" aria-hidden="true">C</span>
+                        <span class="blast-b" aria-hidden="true">e</span>
+                        <span class="blast-b" aria-hidden="true">r</span>
+                        <span class="blast-b" aria-hidden="true">t</span>
+                        <span class="blast-b" aria-hidden="true">i</span>
+                        <span class="blast-b" aria-hidden="true">f</span>
+                        <span class="blast-b" aria-hidden="true">i</span>
+                        <span class="blast-b" aria-hidden="true">c</span>
+                        <span class="blast-b" aria-hidden="true">a</span>
+                        <span class="blast-b" aria-hidden="true">t</span>
+                        <span class="blast-b" aria-hidden="true">e</span>
+                        <span class="blast-b" aria-hidden="true">s</span>
+                    </h4>
+                    <div class="row mx-0 p-5">
+                        <div class="">
+                            Programming for Everybody (Getting Started with Python)
+                            University of Michigan
+                            https://coursera.org/share/616ac355eb7b99baf69fa571d7068618
+                        </div>
+                        <div class="">
+                            HTML, CSS, and JavaScript for Web Developers
+                            Johns Hopkins University
+                            https://coursera.org/share/7808be3c45f8cb4bc394ca4bd00e3c21
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+        <section class="col-lg-12 bg-dark p-20">
+            <div class="d-flex flex-column align-items-center pb-3 pt-2">
+                <img src="images/my_logo.png" alt="C" width="40" height="40" class="my-2"
+                    style="filter: saturate(100%) contrast(100%) brightness(100%) invert(80%) sepia(90%) hue-rotate(180deg) ">
+                <span class="text-white opacity-50 text-xs">@2022 Cris Argie Portfolio</span>
+                <p class="text-white opacity-50 text-xs">Privacy Policy</p>
+            </div>
+        </section>
