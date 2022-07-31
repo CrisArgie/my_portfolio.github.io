@@ -326,7 +326,7 @@ a {
     }
 
     .title-head {
-        font-size: 0.4em;
+        font-size: 0.3em;
         letter-spacing: 1.5px;
         font-weight: 500;
         line-height: 1.9;
@@ -355,7 +355,7 @@ a {
         -webkit-background-clip: text;
         color: transparent;
         opacity: 0.5;
-    }
+    } */
 
     .title-foot:before {
         content: attr(data-text);
@@ -364,12 +364,12 @@ a {
         left: 0;
         transform-origin: bottom;
         transform: rotateX(180deg);
-        line-height: 1.4em;
-        background: linear-gradient(0deg, #fff 0, transparent 80%);
+        line-height: 24em;
+        background: linear-gradient(0deg, #fff 0, transparent 90%);
         -webkit-background-clip: text;
         color: transparent;
-        opacity: 0.5;
-    } */
+        opacity: 0.8;
+    }
 }
 
 /* End mobile design */
