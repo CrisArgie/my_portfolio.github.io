@@ -57,7 +57,7 @@ function rtnBtn() {
 
     if (leftsliderElement[0].classList.value === 'slider-l op-0 active') {
         console.log('ok here left');
-        
+
         leftsliderElement[0].classList.toggle('active')
         certElement.classList.toggle('z-index-1')
         openElement[0].classList.add('active')
@@ -105,6 +105,9 @@ function activeFunction() {
                             break;
                         case 'fake-r-2 active':
                             fakeAccordion[4].classList.add('show')
+                            break;
+                        case 'fake-r-3 active':
+                            fakeAccordion[5].classList.add('show')
                             break;
                     }
                 }

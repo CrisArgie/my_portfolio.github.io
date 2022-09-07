@@ -488,7 +488,8 @@ a {
 .fake-l-2,
 .fake-l-3,
 .fake-r-1,
-.fake-r-2 {
+.fake-r-2,
+.fake-r-3 {
     cursor: pointer;
     opacity: 0.8;
 }
@@ -548,7 +549,8 @@ a {
 .fake-l-2:hover,
 .fake-l-3:hover,
 .fake-r-1:hover,
-.fake-r-2:hover {
+.fake-r-2:hover,
+.fake-r-3:hover {
     opacity: 1;
 }
 
@@ -556,7 +558,8 @@ a {
 .fake-l-2.active,
 .fake-l-3.active,
 .fake-r-1.active,
-.fake-r-2.active {
+.fake-r-2.active,
+.fake-r-3.active {
     color: var(--color-1);
     opacity: 1;
     font-weight: 700;
@@ -654,7 +657,8 @@ a {
     .fake-l-2,
     .fake-l-3,
     .fake-r-1,
-    .fake-r-2 {
+    .fake-r-2,
+    .fake-r-3 {
         font-size: 0.6rem;
     }
 
