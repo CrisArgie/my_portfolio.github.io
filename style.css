@@ -645,145 +645,160 @@ a {
     margin: 0rem 3rem;
 }
 
-/* mobile design */
-@media (max-width: 800px) {
-
-    .l-section-slide,
-    .r-section-slide {
-        margin: 0rem 0rem;
-    }
-
-    .fake-l-1,
-    .fake-l-2,
-    .fake-l-3,
-    .fake-r-1,
-    .fake-r-2,
-    .fake-r-3 {
-        font-size: 0.6rem;
-    }
-
-    .fake-a-1 {
-        font-size: 0.5rem;
-    }
-
-    .a-link-btn::before {
-        /* left: 55px; */
-    }
-
-    .a-link-btn::after {
-        /* top: 900px; */
-        /* right: 231px; */
-        /* bottom: -5px; */
-    }
-
-    .fake-h4 {
-        font-size: 0.5rem;
-    }
-
-    .fake-h5 {
-        font-size: 1.25rem !important;
-    }
-
-    .fake-a-2 {
-        font-size: 0.6rem;
-    }
-
-    .font-size-1 {
-        font-size: 0.6rem;
-    }
-
-    .navbar {
-        flex-direction: column;
-        align-items: flex-start;
-    }
-
-    .toggle-button {
-        display: flex;
-    }
-
-    .navbar-links {
-        display: none;
-        width: 100%;
-        background-color: black;
-    }
-
-    .navbar-links ul {
-        width: 100%;
-        flex-direction: column;
-    }
-
-    .navbar-links ul li {
-        text-align: center;
-    }
-
-    .navbar-links ul li a {
-        padding: .5rem 1rem;
-    }
-
-    .navbar-links.active {
-        display: flex;
-    }
-
-    .btns {
-        font-size: 8px;
-        max-width: 120px;
-        height: 35px;
-        line-height: 40px;
-        margin-top: 50px;
-    }
-
-    .scroll {
-        font-size: 0.8em;
-    }
-
-    .title-head {
-        font-size: 0.3em;
-        letter-spacing: 1.5px;
-        font-weight: 500;
-        line-height: 1.9;
-        color: var(--color-3);
-        transform: skewY(-7deg);
-    }
-
-    .title-foot {
-        font-size: 0.02em;
-        font-weight: 500;
-        line-height: 2.5;
-        text-transform: uppercase;
-        color: rgb(255, 255, 255, 90%);
-        transform: skewY(-7deg);
-    }
-
-    /* .title-head:before {
-        content: attr(data-text);
-        position: absolute;
-        top: 0;
-        left: 0;
-        transform-origin: bottom;
-        transform: rotateX(180deg);
-        line-height: 1.14em;
-        background: linear-gradient(0deg, #fff 0, transparent 70%);
-        -webkit-background-clip: text;
-        color: transparent;
-        opacity: 0.5;
-    } */
-
-    .title-foot:before {
-        content: attr(data-text);
-        position: absolute;
-        top: 0;
-        left: 0;
-        transform-origin: bottom;
-        transform: rotateX(180deg);
-        line-height: 24em;
-        background: linear-gradient(0deg, #fff 0, transparent 90%);
-        -webkit-background-clip: text;
-        color: transparent;
-        opacity: 0.8;
-    }
+.btn-color-1{
+    color: var(--color-1);
 }
 
-/* End mobile design */
+.click-here{
+    color: #000;
+    font-weight: 100;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 4;
+}
+
+/* mobile design */
+@media screen and (orientation: landscape) {
+    @media (max-width: 800px) {
+
+        .l-section-slide,
+        .r-section-slide {
+            margin: 0rem 0rem;
+        }
+
+        .fake-l-1,
+        .fake-l-2,
+        .fake-l-3,
+        .fake-r-1,
+        .fake-r-2,
+        .fake-r-3 {
+            font-size: 0.6rem;
+        }
+
+        .fake-a-1 {
+            font-size: 0.5rem;
+        }
+
+        .a-link-btn::before {
+            /* left: 55px; */
+        }
+
+        .a-link-btn::after {
+            /* top: 900px; */
+            /* right: 231px; */
+            /* bottom: -5px; */
+        }
+
+        .fake-h4 {
+            font-size: 0.5rem;
+        }
+
+        .fake-h5 {
+            font-size: 1.25rem !important;
+        }
+
+        .fake-a-2 {
+            font-size: 0.6rem;
+        }
+
+        .font-size-1 {
+            font-size: 0.6rem;
+        }
+
+        .navbar {
+            flex-direction: column;
+            align-items: flex-start;
+        }
+
+        .toggle-button {
+            display: flex;
+        }
+
+        .navbar-links {
+            display: none;
+            width: 100%;
+            background-color: black;
+        }
+
+        .navbar-links ul {
+            width: 100%;
+            flex-direction: column;
+        }
+
+        .navbar-links ul li {
+            text-align: center;
+        }
+
+        .navbar-links ul li a {
+            padding: .5rem 1rem;
+        }
+
+        .navbar-links.active {
+            display: flex;
+        }
+
+        .btns {
+            font-size: 8px;
+            max-width: 120px;
+            height: 35px;
+            line-height: 40px;
+            margin-top: 0px;
+        }
+
+        .scroll {
+            font-size: 0.8em;
+        }
+
+        .title-head {
+            font-size: 0.3em;
+            letter-spacing: 1.5px;
+            font-weight: 500;
+            line-height: 1.9;
+            color: var(--color-3);
+            transform: skewY(-7deg);
+        }
+
+        .title-foot {
+            font-size: 0.02em;
+            font-weight: 500;
+            line-height: 2.5;
+            text-transform: uppercase;
+            color: rgb(255, 255, 255, 90%);
+            transform: skewY(-7deg);
+        }
+
+        /* .title-head:before {
+            content: attr(data-text);
+            position: absolute;
+            top: 0;
+            left: 0;
+            transform-origin: bottom;
+            transform: rotateX(180deg);
+            line-height: 1.14em;
+            background: linear-gradient(0deg, #fff 0, transparent 70%);
+            -webkit-background-clip: text;
+            color: transparent;
+            opacity: 0.5;
+        } */
+
+        .title-foot:before {
+            content: attr(data-text);
+            position: absolute;
+            top: 0;
+            left: 0;
+            transform-origin: bottom;
+            transform: rotateX(180deg);
+            line-height: 24em;
+            background: linear-gradient(0deg, #fff 0, transparent 90%);
+            -webkit-background-clip: text;
+            color: transparent;
+            opacity: 0.8;
+        }
+    }
+
+    /* End mobile design */
+}
+
 
 .text-code-style {
     font-family: 'Brush Script MT', 'Lucida Handwriting', 'MV Boli', 'Segoe Script';

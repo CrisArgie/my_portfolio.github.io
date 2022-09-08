@@ -192,6 +192,7 @@ window.addEventListener('mousemove', function (e) {
     // m.x = e.clientX
     // m.y = e.clientY
     TweenMax.to(m, 0.3, { x: e.clientX, y: e.clientY, ease: 'linear' })
+
     // document.querySelector('.message').className = 'hide';
 })
 
