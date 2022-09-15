@@ -243,10 +243,10 @@ function render() {
         p.p.y = m.y + vel.y;
     }
 }
-window.addEventListener("resize", function () {
-    canvas.width = innerWidth
-    canvas.height = innerHeight
-})
+// window.addEventListener("resize", function () {
+//     canvas.width = innerWidth
+//     canvas.height = innerHeight
+// })
 
 window.requestAnimFrame = (function () {
     return window.requestAnimationFrame ||
